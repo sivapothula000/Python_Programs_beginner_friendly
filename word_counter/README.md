@@ -1,1 +1,1 @@
-<img src="word_counter_demo.gif" width="500">
+<img src="word_count_demo.gif" width="500">
