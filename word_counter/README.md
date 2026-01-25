@@ -1,0 +1,1 @@
+<img src="word_counter_demo.gif" width="500">
