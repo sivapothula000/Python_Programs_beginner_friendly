@@ -29,7 +29,7 @@ The program removes common letters from both names and counts the remaining lett
 Make sure Python is installed:
 python --version
 * Step 2: Run the program:
-python flames_gui.py
+python flames.py
 ## 🛠️ Technologies Used
 * Python 3
 * Tkinter (GUI library)
